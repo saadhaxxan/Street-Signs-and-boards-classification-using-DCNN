@@ -16,8 +16,7 @@ pip install -r requirement.txt
 
 https://colab.research.google.com/drive/1KvnE8zTiYm6Ue2mE5gUzFMPZsFA53LeC
 
-This link refers to the colab runtime file of this project you can either access that through here or you can create your own by just going at https://colab.research.google.com. The dataset used in the project is open source and available on bitbucket to download.
-Here is the link of the dataset  https://bitbucket.org/jadslim/german-traffic-signs/src/master/. ipython notebook along with the py file of this project is available. You can add new layers to the model to make it robust and also play around with the parameters of each layer to get more better results. You can also add more images to the project so that it has larger data to learn. 
+The link above refers to the colab runtime file of this project you can either access that through here or you can create your own by just going at https://colab.research.google.com. This project uses a deep convolutional neural network to classify images of 43 different classes. This project classify street symbols and signs. The dataset used in the project is open source and available on bitbucket to download.Here is the link of the dataset  https://bitbucket.org/jadslim/german-traffic-signs/src/master/. ipython notebook along with the py file of this project is available. You can add new layers to the model to make it robust and also play around with the parameters of each layer to get more better results. You can also add more images to the project so that it has larger data to learn. 
 
 ## Author
 You can get in touch with me on my LinkedIn Profile:
